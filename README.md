@@ -20,12 +20,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=awasthi2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awasthi2001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr />
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awasthi2001&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/awasthi2001/count.svg" />
+</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=awasthi2001&icon=3&color=10)](https://visitcount.itsvg.in)
