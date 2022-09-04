@@ -30,12 +30,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awasthi2001&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
-
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/awasthi2001/count.svg" />
-</h3>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=awasthi2001&icon=3&color=10)](https://visitcount.itsvg.in)
