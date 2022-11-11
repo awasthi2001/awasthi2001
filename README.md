@@ -8,7 +8,7 @@
 
 <img  src="https://tecnewss.com/wp-content/uploads/2022/06/01Techfix-print-superJumbo.gif" height="280px"  align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://akportfolio191.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://akshansh-portfolio-1.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/akshansh-awasthi-b39431230/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="akshanshawasthi013@gmail.com" href="mailto:akshanshawasthi013@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/916267186126" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://akportfolio191.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+  <a href="https://akshansh-portfolio-1.vercel.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
     
 </p>
 
