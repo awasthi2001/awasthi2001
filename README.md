@@ -1,35 +1,85 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+
+<h1 align="center">Hi there! I'm Akshansh Awasthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+   
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
   <br>
+   ## 👨🏻‍💻 About Me:
+
+<img  src="https://tecnewss.com/wp-content/uploads/2022/06/01Techfix-print-superJumbo.gif" height="280px"  align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://akportfolio191.netlify.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
+
+- 💓 I love designing websites and coding.
+
+- 📫 How to reach me **akshanshawasthi013@gmail.com**
+
+<br>
 
 
-# 💫 About Me:
-<img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
-<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about DSA and Development
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akshansh.awasthi.2001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshansh_awasthi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-awasthi-b39431230/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=awasthi2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=awasthi2001&theme=radical&hide_border=false)<br/>
 
 
+
+
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,express,chakraui,mongodb,nodejs," />
+  </a>
+</p>
+
+
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,git,github,heroku,netlify,powershell,vscode" />
+  </a>
+</p>
+
+
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshansh-awasthi-b39431230/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="akshanshawasthi013@gmail.com" href="mailto:ayushkumar.barbighaiya@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/916267186126" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="https://akportfolio191.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+    
+</p>
+
+
+
+<h2>📊 Github Stats</h2>
+<br/>
+
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=awasthi2001&show_icons=true&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi2001&layout=compact&theme=dark" />
+</div>
+ <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=awasthi2001&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=awasthi2001&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=awasthi2001&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awasthi2001&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
-
 <br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=awasthi2001&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=awasthi2001&icon=3&color=10)](https://visitcount.itsvg.in)
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/awasthi2001/count.svg" />
+</h3>
