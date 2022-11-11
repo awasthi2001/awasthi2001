@@ -34,7 +34,7 @@
 <h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,express,chakraui,mongodb,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,express,mongodb,nodejs" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshansh-awasthi-b39431230/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="akshanshawasthi013@gmail.com" href="mailto:ayushkumar.barbighaiya@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a title="akshanshawasthi013@gmail.com" href="mailto:akshanshawasthi013@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/916267186126" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
   <a href="https://akportfolio191.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
     
