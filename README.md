@@ -69,8 +69,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi2001&layout=compact&theme=dark" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=awasthi2001&theme=react-dark" alt="activitygraph&theme=dark" /> 
-<br />
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=awasthi2001&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=awasthi2001&theme=dark" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awasthi2001&theme=vue" alt="summarycard"/> </p>
